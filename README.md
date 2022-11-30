@@ -1,6 +1,8 @@
 ## Ankush Ahuja
 High school is tough :(
-<hr>
+
+<hr/>
+
 ### Education
 Technologisches Gewerbemuseum (TGM)
 
