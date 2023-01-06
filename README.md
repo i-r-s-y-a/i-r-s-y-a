@@ -11,10 +11,10 @@ Technologisches Gewerbemuseum (TGM)
 + CSharp
 + Pyhon
 + Lua
-+ JS/TS
++ JS/TS/VueJS
 
 ### Tools
 + GNU/Linux
-+ wxMaxima
++ (wx)Maxima
 + Git
 + Gimp, Inkscape, Adobe Photoshop, Adobe Illustrator
