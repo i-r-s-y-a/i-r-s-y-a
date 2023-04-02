@@ -1,5 +1,5 @@
 ## Ankush Ahuja
-High school is tough :(
+*Et ipsa scientia potestas est* ~ Francis Bacon
 
 <hr/>
 
