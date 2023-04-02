@@ -12,9 +12,13 @@ Technologisches Gewerbemuseum (TGM)
 + Pyhon
 + Lua
 + JS/TS/VueJS
++ C
 
 ### Tools
 + GNU/Linux
 + (wx)Maxima
 + Git
 + Gimp, Inkscape, Adobe Photoshop, Adobe Illustrator
+
+### Others
++ [Botball](https://www.kipr.org/botball) Participant
