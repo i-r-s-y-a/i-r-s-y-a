@@ -4,7 +4,7 @@
 <hr/>
 
 ### Education
-Technologisches Gewerbemuseum (TGM)
+Technologisches Gewerbemuseum (TGM) - Informationstechnologie
 
 ### Coding
 + Java
