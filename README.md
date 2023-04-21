@@ -8,11 +8,19 @@ Technologisches Gewerbemuseum (TGM)
 
 ### Coding
 + Java
+  + Maven
+  + Swing
+  + JavaFX
 + CSharp
-+ Pyhon
+  + WPF
+  + Unity Basics
++ Python
+  + PyQT
+  + Django Basics
 + Lua
 + JS/TS/VueJS
 + C
++ My(SQL)
 
 ### Tools
 + GNU/Linux
