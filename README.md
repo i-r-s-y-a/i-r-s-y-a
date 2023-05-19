@@ -17,9 +17,11 @@ Technologisches Gewerbemuseum (TGM) - Informationstechnologie
 + Python
   + PyQT
   + Django Basics
+  + Flask Basics
 + Lua
 + JS/TS/VueJS
 + C
++ Bash
 + My(SQL)
 
 ### Tools
@@ -30,3 +32,4 @@ Technologisches Gewerbemuseum (TGM) - Informationstechnologie
 
 ### Others
 + [Botball](https://www.kipr.org/botball) Participant
++ [Cloudflight Coding Contest](https://register.codingcontest.org/) Participant (Classic Mode)
