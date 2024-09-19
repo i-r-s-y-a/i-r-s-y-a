@@ -1,1 +1,1 @@
-Interested in competitive programming, ml & robotics.
+Interested in maths, ml & robotics.
